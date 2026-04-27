@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [https://github.com/Cepilane/QR-code-component]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://qr-code-component-one-peach.vercel.app/]
 
 ---
 
@@ -60,15 +60,13 @@ In future projects I want to focus on:
 
 - Getting more confident with responsive design and media queries
 - Learning more about CSS custom properties and how to organize them
-- Practicing accessibility basics — proper alt text, semantic HTML, contrast
+- Practicing accessibility basics — proper semantic HTML, contrast
 
 ### AI Collaboration
 
 I used Claude (claude.ai) as a learning companion during this challenge.
 
-- **How I used it:** Asked for hints when I got stuck, and to explain concepts like Flexbox centering and CSS variables. Claude guided me toward finding solutions rather than giving me the answers directly.
-- **What worked well:** Breaking down problems step by step and using analogies to understand the box model and Flexbox really helped things click.
-- **What didn't work:** At first I wanted Claude to just give me the CSS — but working through the problems myself made the learning stick much better.
+- **How I used it:** When i was writing this code i asked Claude only one time to ask him for the final code review.
 
 ---
 
